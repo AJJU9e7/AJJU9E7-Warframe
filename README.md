@@ -1,6 +1,4 @@
-![AJJU9E7 Warframe Banner](YOUR_IMAGE_FILENAME.png)
-
-# AJJU9E7 Warframe
+![AJJU9E7 Warframe Creator Banner](AJJU9E7-%20Warframe%20Creator-%20WideBanner-%20Yt%20Twitch.png)
 
 # AJJU9E7 Warframe
 
