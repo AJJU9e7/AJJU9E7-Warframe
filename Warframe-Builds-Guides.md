@@ -5,11 +5,11 @@
 Warframe builds, guides, farming resources, progression resources, gameplay references, and long-term account growth content by AJJU9E7.
 ## Featured Guides
 
-### Railjack Build   - 🎥 [Video](URL) | 📄 [Overview](URL)
-### Voidrig Build    - 🎥 [Video](URL) | 📄 [Overview](URL)
-### Credit Farm      - 🎥 [Video](URL) | 📄 [Overview](URL)
-### Plastids Farm    - 🎥 [Video](URL) | 📄 [Overview](URL)
-### Solo XP Farm     - 🎥 [Video](URL) | 📄 [Overview](URL)
+### Railjack Build   - 🎥 [Video](https://www.youtube.com/watch?v=uRp5TrSHe-I)) | 📄 [Overview](URL)
+### Voidrig Build    - 🎥 [Video](https://www.youtube.com/watch?v=4E6bxq59ibQ)) | 📄 [Overview](URL)
+### Credit Farm      - 🎥 [Video](https://www.youtube.com/watch?v=vB96S6rmSPM)  | 📄 [Overview](URL)
+### Plastids Farm    - 🎥 [Video](https://www.youtube.com/watch?v=4xxkx_HMpQU) | 📄 [Overview](URL)
+### Solo XP Farm     - 🎥 [Video](https://www.youtube.com/watch?v=PLrDCJOTXbQ) | 📄 [Overview](URL)
 <br>
 
 ## About
