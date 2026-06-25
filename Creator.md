@@ -56,7 +56,7 @@ This repository connects Warframe content created by AJJU9E7, including:
 <br>
 <br>
 
-## [Warframe Builds & Guides](Warframe-Builds-Guides.md)
+## [Warframe Builds & Guides](README.md)
 See the Warframe Builds & Guides section for builds, farming guides, progression resources, gameplay references, and future Warframe content.
 <br>
 <br>
