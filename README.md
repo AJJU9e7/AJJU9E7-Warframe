@@ -76,7 +76,7 @@ Browse practical Warframe builds, farming guides, progression resources, gamepla
 ## Creator Hub
 
 * 🌐 Website – Warframe Guide Library
-  https://sites.google.com/view/ajju9e7/warframe-guides-builds
+  https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds
 
 * ▶️ YouTube – AJJU9E7
   https://www.youtube.com/@AJJU9E7
