@@ -52,7 +52,7 @@ This repository connects Warframe content created by AJJU9E7, including:
 Browse practical Warframe builds, farming guides, progression resources, gameplay references, and mission-tested strategies created by AJJU9E7. Every guide is designed to support reliable progression from beginner to endgame.
 
 
-### RailJack META 2.0     - 🎥 [Video](https://youtu.be/U90VaXe1mPY) | 📄 [Overview](https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds/railjack-meta-2-0))
+### Railjack META 2.0  - 🎥 [Video](https://youtu.be/U90VaXe1mPY) | 📄 [Overview](https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds/railjack-meta-2-0))
 ### Solo XP Farm     - 🎥 [Video](https://www.youtube.com/watch?v=PLrDCJOTXbQ) | 📄 [Overview](https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds/solo-xp-farm))
 ### Credit Farm      - 🎥 [Video](https://www.youtube.com/watch?v=vB96S6rmSPM)  | 📄 [Overview](https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds/credit-farm))
 ### Voidrig Build    - 🎥 [Video](https://www.youtube.com/watch?v=4E6bxq59ibQ)) | 📄 [Overview](https://sites.google.com/view/ajju9e7/gaming/warframe/warframe-guides-builds/voidrig-build))
